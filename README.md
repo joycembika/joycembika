@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joycembika
-- 👀 I’m interested in a Front-end Web Development job.
-- 🌱 I’m currently learning Fullstack Engineer on Codeacademy
-- 💞️ I’m looking to start a career as a Frontend Developer
+- 👀 I’m interested in a Front End Web Development job.
+- 🌱 I’m currently taking the Front End Development Libraries Certification on freeCodeCamp
+- 💞️ I’m looking to start a career as a Front End Developer
 - 📫 How to reach me @ joycembika@gmail.com
 - 👩🏾‍💻 Checkout my projects @ [joycembika.com](https://www.joycembika.com)
 

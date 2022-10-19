@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking the Front End Development Libraries Certification on freeCodeCamp
 - 💞️ I’m looking to start a career as a Front End Developer
 - 📫 How to reach me @ joycembika@gmail.com
-- 👩🏾‍💻 Checkout my projects @ [Joyce Mbika Portfolio](https://joycembika.github.io/joyce-mbika-porfolio/)
+- 👩🏾‍💻 Checkout my projects @ [Joyce Mbika Portfolio](https://joycembika.com)
 - 📰 Checkout My Blog - [The Africangirl Media](https://www.theafricangirl.com)
 
 <!---

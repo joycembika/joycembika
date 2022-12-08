@@ -5,7 +5,7 @@
 - 📫 How to reach me @ joycembika@gmail.com
 - 👩🏾‍💻 Checkout my portfolio @ [Joyce Mbika Portfolio](https://joycembika.com)
 - 📰 Checkout My Blog - [The Africangirl Media](https://www.theafricangirl.com)
-- 👩🏾‍💼 My business -> [Joyce Digital](http://joycedigital.co)
+
 
 <!---
 joycembika/joycembika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

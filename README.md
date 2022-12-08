@@ -4,7 +4,7 @@
 - 💞️ I’m looking to start a career as a Web Developer Developer
 - 📫 How to reach me @ joycembika@gmail.com
 - 👩🏾‍💻 Checkout my portfolio @ [Joyce Mbika Portfolio](https://joycembika.com)
-- 📰 Checkout My Blog - [The Africangirl Media](https://www.theafricangirl.com)
+- 📰 Checkout My Blog @ [The Africangirl Media](https://www.theafricangirl.com)
 
 
 <!---

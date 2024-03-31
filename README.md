@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @joycembika
-- 👀 I’m interested in a Website and Web Application Development.
-- 🌱 I’m currently taking a SQL Course in Udemy by Vertex Academy
-- 💞️ I’m looking to start a career as a Web Developer Developer specializing in Front-End Development
+- 👋 Hi, I’m Joyce.
+- 👀 I’m interested in a Cybersecurity.
+- 🌱 I’m recently completed the Google Cybersecurity Professional Certificate.
+- 🌱 I’m currently studying to take the CompTia Security+ Certification.
+- 💞️ I’m looking to start a career in Cybersecurity Analyst
 - 📫 How to reach me @ joycembika@gmail.com
 - 👩🏾‍💻 Checkout my portfolio @ [Joyce Mbika Portfolio](https://joycembika.com)
 

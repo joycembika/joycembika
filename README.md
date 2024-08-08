@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying to take the CompTia Security+ Certification.
 - 💞️ I’m looking to start a career in Cybersecurity Analyst
 - 📫 How to reach me @ joycembika@gmail.com
-- 👩🏾‍💻 Checkout my portfolio @ [Joyce Mbika Portfolio](https://joycembika.com)
+- 👩🏾‍💻 Let's Connect on LinkedIn @ [Joyce Mbika]([https://www.linkedin.com/in/joycembika/])
 
 
 

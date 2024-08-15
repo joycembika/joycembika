@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joyce.
-- 👀 I’m interested in a Data Analysis.
+- 👀 I’m interested in a Data Engineering.
 - 🌱 I’m recently completed the Analyze Data with SQL and Analyze Data with Python skill paths on Codecademy.
 - 🌱 I’m currently studying Data Engineering on Codecademy.
 - 💞️ I’m looking to start a career in Data Engineering.

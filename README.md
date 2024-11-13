@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Joyce.
-- 👀 I’m interested in a Data Engineering.
-- 🌱 I’m recently completed the Analyze Data with SQL and Analyze Data with Python skill paths on Codecademy.
-- 🌱 I’m currently studying Data Engineering on Codecademy.
-- 💞️ I’m looking to start a career in Data Engineering.
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’ve recently completed the Google Cybersecurity Certificate.
+- 🌱 I’m currently studying for the Splunk Certified Cybersecurity Defense Analyst.
+- 💞️ I’m looking to start a career in Cybersecurity.
 - 📫 How to reach me @ joycembika@gmail.com
 - 👩🏾‍💻 Let's Connect on LinkedIn @ [Joyce Mbika](https://www.linkedin.com/in/joycembika/)
 

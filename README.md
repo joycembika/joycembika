@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Joyce.
-- 👀 I’m interested in Cybersecurity.
-- 🌱 I’ve recently completed the Google Cybersecurity Certificate.
-- 🌱 I’m currently studying for the Splunk Certified Cybersecurity Defense Analyst.
-- 💞️ I’m looking to start a career in Cybersecurity.
-- 📫 How to reach me @ joycembika@gmail.com
+- 👀 I’m passionate about Secured Cloud Software Engineering and am currently studying software engineering with a focus on cloud solutions and cybersecurity.
+- 🌱 I’ve recently completed the Google Cybersecurity Certificate and am studying the IBM DevOps and Software Engineering program on Coursera.
+- 🚀 I’m actively building the skills necessary for a future career in software engineering and looking forward to applying my knowledge in real-world projects.
+- 📫 Feel free to reach out via email: joycembika@gmail.com
 - 👩🏾‍💻 Let's Connect on LinkedIn @ [Joyce Mbika](https://www.linkedin.com/in/joycembika/)
 
 
